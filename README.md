@@ -11,7 +11,6 @@
 
 - ⚡ I like **Video Games, Sunsets, and pushing the boundaries of AI**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
