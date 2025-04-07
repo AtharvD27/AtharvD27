@@ -3,17 +3,13 @@
 
 - 🔭 I’m currently working on **technologies like NLP, Generative AI, Information Retrieval**
 
-- 🌱 I’m currently learning **JAX, LangChain, and multimodal LLM architectures**
+- 🌱 I’m currently learning **Advances in Multimodal AI & Large Models**
 
-- 👯 I’m looking to collaborate on **open-source ML projects and generative AI applications**
+- 👯 I’m looking to collaborate on **open-source ML projects, generative AI applications, and AI research**
 
-- 💬 Ask me about **PyTorch, RAG, LLM fine-tuning, and AWS ML services**
+- 📫Reach me at... [Linkedln](https://www.linkedin.com/in/atharvdabhade/)
 
-- 📫 How to reach me **atharvda2077@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/atharvdabhade/](https://www.linkedin.com/in/atharvdabhade/)
-
-- ⚡ Fun fact **I can optimize LLM pipelines while solving Rubik's cubes**
+- ⚡ I like **Video Games, Sunsets, and pushing the boundaries of AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
