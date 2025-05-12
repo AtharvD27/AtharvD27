@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **open-source ML projects, generative AI applications, and AI research**
 
-- 📫Reach me at... [Linkedln](https://www.linkedin.com/in/atharvdabhade/)
-
 - ⚡ I like **Video Games, Sunsets, and pushing the boundaries of AI**
 
 <p align="left">
