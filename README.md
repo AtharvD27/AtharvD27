@@ -88,13 +88,6 @@ I'm a Machine Learning Engineer with **5+ years of experience** building and dep
 2. **Extreme Weather Event Detection in India Using Advanced Deep Learning Techniques**  
    *IEEE ICOT 2021* 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvD27&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvD27&layout=compact&theme=radical)
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in:
